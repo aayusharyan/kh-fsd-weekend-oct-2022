@@ -150,16 +150,4 @@
 9. Understanding the file system
 10. Navigating through directories
 11. Absolute vs. Relative pathnames
-12. Creating directories
-
-
-# Pseudocode
-- loop
-- condition
-
-# Input / Output
-
-
-# Doubts (Wed)
-## Getters and Setters
-## Sub classes and Super classes
+12. Creating directories.
