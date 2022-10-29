@@ -91,12 +91,6 @@ x - This means execute access. This means we can run the contents which is insid
 
 
 
-## Shell scripting
-- Script is like a program.
-- 
-
-
-
 ## Agenda for Week 5
 1. Writing Shell Scripts
 a. #!
